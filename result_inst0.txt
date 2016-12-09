@@ -1,0 +1,2 @@
+la sequence optimale est :  [1,2]
+Cmax  =  13.0
